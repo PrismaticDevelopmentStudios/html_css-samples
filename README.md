@@ -1,4 +1,5 @@
 ## HTML CSS Refactoring Practice
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Project Overview
 This is the first homework assignment for the 24 week DU Coding Bootcamp. The purpose of the assignment was to refactor the HTML and CSS for a pre-designed web page and to practice using element ids inside of hrefs to create in page navigation links. 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
