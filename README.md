@@ -1,4 +1,4 @@
-##The code for this respositroy is in the master branch.
+## The code for this respositroy is in the master branch.
 
 ## HTML CSS Refactoring Practice
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
